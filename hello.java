@@ -1,5 +1,6 @@
 class hello{
     public static void main(String[] args) {
         System.out.print("Hello");
+        System.out.print("I am learing the DSA");
     }
 }
